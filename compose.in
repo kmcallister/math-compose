@@ -1,0 +1,137 @@
+# general math
+a           asciitilde  : ∝
+minus       plus        : ∓
+less        bar         : ◅
+bar         greater     : ▻
+period      colon       : ∴
+colon       period      : ∵
+q           e           : □
+i           y           : ∞
+O           plus        : ⊕
+O           x           : ⊗
+V           V           : ∇
+asciitilde  asciitilde  : ∼
+equal       equal       : ≡
+o           period      : ∘
+asterisk    asterisk    : ∗
+colon       colon       : ∷
+period      asterisk    : ∙
+asterisk    period      : ∙
+question    equal       : ≟
+d           equal       : ≝
+D           equal       : ≜
+asterisk    equal       : ≛
+O           period      : .
+O           o           : ⊚
+O           equal       : ⊜
+c           period      : ⋯
+bracketleft bar         : ⟦
+bar        bracketright : ⟧
+
+# logic and sets
+A           A           : ∀
+A           o           : Å
+E           E           : ∃
+slash       E           : ∄
+slash       0           : ∅
+asciitilde  minus       : ¬
+v           v           : ∨
+asciicircum asciicircum : ∧
+s           i           : ∩
+s           u           : ∪
+e           minus       : ∈
+e           slash       : ∉
+minus       e           : ∋
+slash       e           : ∌
+s           less        : ⊂
+s           greater     : ⊃
+S           less        : ⊄
+S           greater     : ⊅
+e           less        : ⊆
+e           greater     : ⊇
+E           less        : ⊈
+E           greater     : ⊉
+asciitilde  equal       : ≃
+asciitilde  slash       : ≄
+B           B           : ⊥
+T           T           : ⊤
+L           L           : ⊢
+bar         minus       : ⊢
+R           R           : ⊣
+minus       bar         : ⊣
+
+# arrows
+i           f           : ↔
+I           F           : ⇔
+equal       greater     : ⇒
+equal       less        : ⇐
+m minus greater         : ↦
+m less  minus           : ↤
+t minus greater         : ↣
+t less  minus           : ↢
+b minus greater         : ⇀
+b less  minus           : ↼
+B minus greater         : ⇁
+B less  minus           : ↽
+d minus greater         : ⇉
+d less  minus           : ⇇
+D minus greater         : ⇄
+D less  minus           : ⇆
+z           z           : ↯
+
+# misc
+d           e           : ♫
+d           a           : ♬
+d           i           : ♪
+d           o           : ♩
+
+# greek
+g           A           : Α
+g           a           : α
+g           B           : Β
+g           b           : β
+g           G           : Γ
+g           g           : γ
+g           D           : Δ
+g           d           : δ
+g           E           : Ε
+g           e           : ε
+g           Z           : Ζ
+g           z           : ζ
+g           J           : Η
+g           j           : η
+g           H           : Θ
+g           h           : θ
+g           I           : Ι
+g           i           : ι
+g           K           : Κ
+g           k           : κ
+g           L           : Λ
+g           l           : λ
+g           M           : Μ
+g           m           : μ
+g           N           : Ν
+g           n           : ν
+g           X           : Ξ
+g           x           : ξ
+g           O           : Ο
+g           o           : ο
+g           P           : Π
+g           p           : π
+g           R           : Ρ
+g           r           : ρ
+g           S           : Σ
+g           s           : σ
+G           s           : ς
+g           T           : Τ
+g           t           : τ
+g           U           : Υ
+g           u           : υ
+g           F           : Φ
+g           f           : φ
+g           C           : Χ
+g           c           : χ
+g           Y           : Ψ
+g           y           : ψ
+g           W           : Ω
+g           w           : ω
