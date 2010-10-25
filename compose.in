@@ -51,8 +51,8 @@ e           less        : ⊆
 e           greater     : ⊇
 E           less        : ⊈
 E           greater     : ⊉
-asciitilde  equal       : ≃
-asciitilde  slash       : ≄
+asciitilde  equal       : ≈
+asciitilde  slash       : ≉
 B           B           : ⊥
 T           T           : ⊤
 L           L           : ⊢
